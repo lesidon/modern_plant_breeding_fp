@@ -1,2 +1,2 @@
-# modern_plant_breeding_fp
+# Final Project for "Modern Plant Breeding Workshow" course
 
